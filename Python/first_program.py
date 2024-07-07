@@ -9,4 +9,3 @@ print("Hello habib, this is your first program in python Congratulation.");
  #     "#" sign statement represents the comments in python 
  #     Semicolon (;) indicates the end of statement it is best practice. 
  
- 
