@@ -1,5 +1,5 @@
 names = ("habib","haseeb","ahmad","ali","hassan","john");
-values = (10,20,30,45,105);
+values = (10,20,30,45,105); 
 
 def print_names(position):
     print("Printed:" , names)
