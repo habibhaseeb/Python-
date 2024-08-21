@@ -36,3 +36,4 @@ print(keyword.kwlist); # this will prints all the keywords available in python.
 ```
 >Note:
 keep in mind with first program in python that indentation block is configure you have concious of whitespace like ( print("")) the one space in the bracket not legal because the python compiler have not access to code fully. Please aware of this.
+ I want to push code continuously with specific learning curve.
